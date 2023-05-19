@@ -1,6 +1,6 @@
 {
   "name": "beautiful-pagination",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Split array into equal parts and generate metadata for use with GUI pagers.",
   "main": "index.js",
   "dependencies": {
